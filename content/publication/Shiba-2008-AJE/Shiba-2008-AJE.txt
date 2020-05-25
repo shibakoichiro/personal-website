@@ -1,0 +1,10 @@
+@article{shiba2019long,
+  title={Long-Term Associations Between Disaster Experiences and Cardiometabolic Risk: A Natural Experiment From the 2011 Great East Japan Earthquake and Tsunami},
+  author={Shiba, Koichiro and Hikichi, Hiroyuki and Aida, Jun and Kondo, Katsunori and Kawachi, Ichiro},
+  journal={American journal of epidemiology},
+  volume={188},
+  number={6},
+  pages={1109--1119},
+  year={2019},
+  publisher={Oxford University Press}
+}
