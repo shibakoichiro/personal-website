@@ -10,50 +10,51 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Associate of Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Harvard T.H. Chan School of Public Health
+  url: "https://www.hsph.harvard.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include social determinants of health and well-being and causal inference.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Social Epidemiology
+- Health Impacts of Traumatic Events (e.g., Disaster)
+- Well-being and Flourishing
+- Causal Inference
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Population Health Sciences
+    institution: Harvard University
+    year: 2020
+  - course: Master of Public Health
+    institution: The University of Tokyo
+    year: 2016
+  - course: BSc in Health Sciences
+    institution: The University of Tokyo
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/_ksphs?lang=ja
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.jp/citations?user=rZ5DSdoAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/shibakoichiro
+- icon: linkedin
+  icon_pack = fa
+  link: https://www.linkedin.com/feed/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
