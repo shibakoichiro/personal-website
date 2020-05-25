@@ -53,13 +53,13 @@ social:
   icon_pack: fab
   link: https://github.com/shibakoichiro
 - icon: linkedin
-  icon_pack = fa
-  link: https://www.linkedin.com/feed/
+  icon_pack: fab
+  link: https://www.linkedin.com/in/koichiro-shiba-92792bb7/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: "/Users/koichiroshiba/OneDrive/CV_Koichiro Shiba_latest.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
