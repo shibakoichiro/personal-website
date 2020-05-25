@@ -59,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: static/CV_Koichiro Shiba_latest.pdf
+  link: "static/CV_Koichiro Shiba_latest.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
