@@ -1,0 +1,10 @@
+@article{shiba2019global,
+  title={The Global Financial Crisis and Overweight among Children of Single Parents: A Nationwide 10-Year Birth Cohort Study in Japan},
+  author={Shiba, Koichiro and Kondo, Naoki},
+  journal={International journal of environmental research and public health},
+  volume={16},
+  number={6},
+  pages={1001},
+  year={2019},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
