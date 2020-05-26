@@ -24,6 +24,7 @@ interests:
 - Social Epidemiology
 - Epidemiologic Methods
 - Causal Inference
+- Machine Learning
 - Health Impacts of Traumatic Events (e.g., Disaster)
 - Well-being
 - Human Flourishing
