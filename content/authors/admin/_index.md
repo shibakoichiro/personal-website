@@ -22,11 +22,14 @@ bio: My research interests include social determinants of health and well-being 
 
 interests:
 - Social Epidemiology
+- Epidemiologic Methods
+- Causal Inference
 - Health Impacts of Traumatic Events (e.g., Disaster)
 - Well-being
 - Human Flourishing
-- Epidemiologic Methods
-- Causal Inference
+- Neighborhoods
+- Aging
+
 
 education:
   courses:

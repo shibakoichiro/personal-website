@@ -1,0 +1,12 @@
++++
+title = "Retirement and mental health: does social participation mitigate the association? A fixed-effects longitudinal analysis"
+date = 2017-05-30
+authors = ["Koichiro Shiba", "Naoki Kondo", "Katsunori Kondo","Ichiro Kawachi"]
+publication_types = ["2"]
+abstract = "**Background**: Empirical evidence investigating heterogeneous impact of retirement on mental health depending on social backgrounds is lacking, especially among older adults.**Methods**: We examined the impact of changes in working status on changes in mental health using Japanese community-dwelling adults aged ≥65 years participating in the Japan Gerontological Evaluation Study between 2010 and 2013 (N = 62,438). Between-waves changes in working status (“Kept working”, “Retired”, “Started work”, or “Continuously retired”) were used to predict changes in depressive symptoms measured by the Geriatric Depression Scale. First-difference regression models were stratified by gender, controlling for changes in time-varying confounding actors including equivalised household income, marital status, instrumental activities of daily living, incidence of serious illnesses and family caregiving. We then examined the interactions between changes in working status and occupational class, changes in marital status, and post-retirement social participation. **Results**: Participants who transitioned to retirement reported significantly increased depressive symptoms (β = 0.33, 95% CI: 0.21–0.45 for men, and β = 0.29, 95% CI: 0.13–0.45 for women) compared to those who kept working. Men who were continuously retired reported increased depressive symptoms (β = 0.13, 95% CI: 0.05–0.20), whereas males who started work reported decreased depressive symptoms (β = −0.20, 95% CI: -0.38–-0.02). Men from lower occupational class (compared to men from higher class) reported more increase in depressive symptoms when continuously retired (β = −0.16, 95% CI: -0.25–-0.08). Those reporting recreational social participation after retirement appeared to be less influenced by transition to retirement. **Conclusions**: Retirement may increase depressive symptoms among Japanese older adults, particularly men from lower occupational class backgrounds. Encouraging recreational social participation may mitigate the adverse effects of retirement on mental health of Japanese older men."
+featured = false
+publication = "*BMC Public Health*"
+doi ="10.1186/s12889-017-4427-0"
+links = [{name = "PDF", url = "https://link.springer.com/content/pdf/10.1186/s12889-017-4427-0.pdf"}]
++++
+
