@@ -10,7 +10,7 @@ subtitle = ""
 
 I am a Research Associate in the [Department of Epidemiology](https://www.hsph.harvard.edu/epidemiology/) and [Department of Social and Behavioral Sciences](https://www.hsph.harvard.edu/social-and-behavioral-sciences/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I am also affiliated with the [Human Flourishing Program at Harvard's Institute for Quantitative Social Science](https://hfh.fas.harvard.edu/).
 
-My research focuses on application of epidemiolgoic and social science methods for rigorous causal inference to studies of social determinants of health. 
+My research focuses on application of epidemiologic and social science methods for rigorous causal inference to studies of social determinants of health. 
 
 My dissertation research took advantage of a unique cohort study of Japanese older adults stemming from the 2011 Great East Japan Earthquake to: 
 
