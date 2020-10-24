@@ -8,6 +8,3 @@ featured = false
 publication = "*Epidemiology*"
 doi ="doi:10.1097/EDE.0000000000001243"
 +++
-
-
-[2]:	ingentaconnect.com/content/wk/ede/2020/00000031/00000006/art00008
