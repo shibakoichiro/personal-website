@@ -7,7 +7,6 @@ abstract = "**Background**: The association between neighborhood environment and
 featured = false
 publication = "*Epidemiology*"
 doi ="doi:10.1097/EDE.0000000000001243"
-links = [{name = "PDF", url = "https://www.[jstage.jst.go.jp/article/jea/26/12/26\_JE20150263/\_pdf/-char/ja][2]"}]
 +++
 
 
