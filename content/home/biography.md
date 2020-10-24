@@ -8,7 +8,7 @@ title = "About me"
 subtitle = ""
 +++
 
-I am a Research Fellow in the [Department of Epidemiology](https://www.hsph.harvard.edu/epidemiology/) and [Department of Social and Behavioral Sciences](https://www.hsph.harvard.edu/social-and-behavioral-sciences/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I am also affiliated with the [Human Flourishing Program at Harvard's Institute for Quantitative Social Science](https://hfh.fas.harvard.edu/).
+I am a Post-doctoral Research Fellow in the [Department of Epidemiology](https://www.hsph.harvard.edu/epidemiology/) and [Department of Social and Behavioral Sciences](https://www.hsph.harvard.edu/social-and-behavioral-sciences/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I am also affiliated with the [Human Flourishing Program at Harvard's Institute for Quantitative Social Science](https://hfh.fas.harvard.edu/).
 
 My research focuses on application of epidemiologic and social science methods for rigorous causal inference to studies of social determinants of health. 
 
