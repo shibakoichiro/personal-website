@@ -3,16 +3,8 @@ title = "Cardiometabolic Profiles and Change in Neighborhood Food and Built Envi
 date = 2020-06-05
 authors = ["Koichiro Shiba","Masamichi Hanazato","Jun Aida", "Katsunori Kondo",  "Mariana Arcaya", "Peter James", "Ichiro Kawachi"]
 publication_types = ["2"]
-summary = "
-**Background**:
-The association between neighborhood environment and health may be biased due to confounding by residential self-selection. The displacement of disaster victims can act as a natural experiment that exposes residents to neighborhood environments they did not select, allowing for the study of neighborhood effects on health.
-**Methods**:
-We leveraged data from a cohort of older adults 65 years of age or older living in Iwanuma, Japan, located 80 km west of the 2011 Great East Japan Earthquake and Tsunami. Surveys were conducted 7 months before the disaster, as well as 2.5 and 5.5 years afterward, and linked with medical records. We classified each individuals type of exposure to neighborhood environment based on proximity to local food and recreation destinations and walkability.
-**Results**:
-Fixed-effect models indicated that change in the exposure type from low to high urban density was associated with increased body mass index (0.46kg/m2; 95% confidence interval [CI] = 0.20, 0.73), waist circumference (1.8cm; 95% CI = 0.56, 3.0), low-density lipoprotein cholesterol
-(11mg/dl; 95% CI = 5.0, 17), and decreased high-density lipoprotein cholesterol (3.1mg/dl; 95% CI = 5.0, 1.3). We observed similar trends when we analyzed only the individuals who experienced postdisaster relocation to temporary homes.
-**Conclusions**:
-Increased proximity to food outlets was simultaneously correlated with greater walkability and accessibility to recreational destinations; however, any protective association of physical activity-promoting built environment appeared to be offset by proximity to unhealthy food outlets,
+summary = "**Background**:The association between neighborhood environment and health may be biased due to confounding by residential self-selection. The displacement of disaster victims can act as a natural experiment that exposes residents to neighborhood environments they did not select, allowing for the study of neighborhood effects on health.**Methods**:We leveraged data from a cohort of older adults 65 years of age or older living in Iwanuma, Japan, located 80 km west of the 2011 Great East Japan Earthquake and Tsunami. Surveys were conducted 7 months before the disaster, as well as 2.5 and 5.5 years afterward, and linked with medical records. We classified each individuals type of exposure to neighborhood environment based on proximity to local food and recreation destinations and walkability.**Results**:Fixed-effect models indicated that change in the exposure type from low to high urban density was associated with increased body mass index (0.46kg/m2; 95% confidence interval [CI] = 0.20, 0.73), waist circumference (1.8cm; 95% CI = 0.56, 3.0), low-density lipoprotein cholesterol
+(11mg/dl; 95% CI = 5.0, 17), and decreased high-density lipoprotein cholesterol (3.1mg/dl; 95% CI = 5.0, 1.3). We observed similar trends when we analyzed only the individuals who experienced postdisaster relocation to temporary homes.**Conclusions**:Increased proximity to food outlets was simultaneously correlated with greater walkability and accessibility to recreational destinations; however, any protective association of physical activity-promoting built environment appeared to be offset by proximity to unhealthy food outlets,
 especially fast-food restaurants and bars"
 featured = false
 publication = "*Epidemiology*"
