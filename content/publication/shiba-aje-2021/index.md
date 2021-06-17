@@ -1,6 +1,5 @@
 +++
-title = "Causal Inference in Studying the Long-term Health Effects of Disasters: Challenges
-and Potential Solutions"
+title = "Causal Inference in Studying the Long-term Health Effects of Disasters: Challenges and Potential Solutions"
 date = 2021-03-17
 authors = ["Koichiro Shiba","Takuya Kawahara", "Jun Aida", "Katsunori Kondo", "Naoki Kondo","Peter James","Mariana Arcaya","Ichiro Kawachi"]
 publication_types = ["2"]
