@@ -1,0 +1,22 @@
++++
+title = "Causal Inference in Studying the Long-term Health Effects of Disasters: Challenges
+and Potential Solutions"
+date = 2021-05-18
+authors = ["Koichiro Shiba","Laura D. Kubzansky", "David R. Williams", "Tyler J. VanderWeele","Eric S. Kim"]
+publication_types = ["2"]
+abstract = "
+**Introduction**
+Having a higher purpose in life has been linked to favorable health outcomes. However, little research has examined whether the purpose–health association persists across different levels of SES. This study assesses whether the association between higher purpose in life and lower mortality is similar across the levels of SES.
+
+**Methods**
+A national sample of 13,159 U.S. adults aged >50 years from the Health and Retirement Study was analyzed. The baseline year was 2006‒2008. Purpose in life was assessed at baseline using Purpose in Life Subscale of the Ryff Psychological Well-being Scales. The risk of death during an 8-year follow-up was assessed. SES was measured using education, income, and wealth. Using multivariable Poisson regression, effect modification by SES was tested on both the additive and multiplicative scales. Analyses were done in 2020.
+
+**Results**
+In analyses stratified by SES, people with the highest level of purpose consistently tended to have lower mortality risk across the levels of SES than those with the lowest level of purpose. However, people with middle-range purpose levels had lower mortality risk only if they also had mid-to-high education, income, and wealth. When formally testing the effect modification by SES, there was modest evidence that the associations between higher purpose and lower mortality were stronger among individuals with high education, income, and wealth.
+
+**Conclusions**
+The highest level of purpose appeared protective against all-cause mortality regardless of the levels of SES. By contrast, when levels of purpose were more modest, people with lower SES may benefit less health-wise from having a purpose."
+featured = false
+publication = "*American Journal of Preventive Medicine*"
+doi ="https://doi.org/10.1016/j.amepre.2021.02.011"
++++
