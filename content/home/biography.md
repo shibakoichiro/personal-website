@@ -8,14 +8,10 @@ title = "About me"
 subtitle = ""
 +++
 
-I am a Research Fellow in the [Department of Epidemiology](https://www.hsph.harvard.edu/epidemiology/) and [Department of Social and Behavioral Sciences](https://www.hsph.harvard.edu/social-and-behavioral-sciences/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I am also affiliated with the [Human Flourishing Program at Harvard's Institute for Quantitative Social Science](https://hfh.fas.harvard.edu/).
+I am a postdoctoral research fellow in the [Department of Epidemiology](https://www.hsph.harvard.edu/epidemiology/) and [Department of Social and Behavioral Sciences](https://www.hsph.harvard.edu/social-and-behavioral-sciences/) at [Harvard T.H. Chan School of Public Health](https://www.hsph.harvard.edu/). I am also affiliated with the [Human Flourishing Program at Harvard's Institute for Quantitative Social Science](https://hfh.fas.harvard.edu/).
 
-My research focuses on application of epidemiologic and social science methods for rigorous causal inference to studies of social determinants of health. 
+My research focuses on the application of epidemiologic and social science thinking and methods for rigorous causal inference in studying social determinants of health. 
 
-My dissertation research took advantage of a unique cohort study of Japanese older adults stemming from the 2011 Great East Japan Earthquake to: 
+Specifically, I have worked on three themes of research. First, I study the effects of traumatic events (e.g., disasters, child adversity, pandemic, and global financial crisis) on population health, with a particular focus on older adult populations. Second, I study the roles of social relationships and social engagement in promoting health of older adults and building resiliency. I have also investigated how the internet-based social interactions can influence population health. Third, my research extends the traditional "risk factor" epidemiology examining a narrow set of health outcomes. I study the impacts of positive psychological factors (e.g., purpose in life, Ikigai) on health and determinants of multidimensional well-being (i.e., human flourishing).
 
-- Conduct the natural experiment study to estimate the causal effects of neighborhood food- and built-environment on cardiometabolic profiles. 
-- Investigate the long-term health consequences of a natural disaster among survivors and mediating roles of post-disaster relocation.
-- Review two underrecognized challeges in causal inference for studies of long-term health impacts of a disaster (or any adverse/traumatic event) and discuss analtyic approaches to deal with the problems.
-
-As a postdoctoral research fellow, I work with [Ichiro Kawachi](https://www.hsph.harvard.edu/ichiro-kawachi/) [(lab website for Japanese scholars)](http://societyandhealthlab.com/) to integrate causal inference and machine learning to examine heterogeneous effects of a natural disaster on health of survivors. I also work with [Tyler VanderWeele](https://www.hsph.harvard.edu/tyler-vanderweele/) on applications of causal inference thinking and methods to investigate determinants of human flourishing. 
+Methodologic tools for causal inference I often use include: methods for the analysis of time-varying treatment (e.g., marginal structural model, doubly-robust targeted maximum likelihood estimation), causal mediation analysis, assessment of effect heterogeneity using either traditional approach or a novel ML-based technique, and outcome-wide framework.
