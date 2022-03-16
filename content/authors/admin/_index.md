@@ -25,11 +25,15 @@ interests:
 - Epidemiologic Methods
 - Causal Inference
 - Machine Learning
-- Health Impacts of Traumatic Events (e.g., Disaster)
-- Well-being
-- Human Flourishing
+- Effect Heterogeneity
+- Traumatic Events
 - Neighborhoods
 - Aging
+- Social Relationships
+- Social Engagement
+- Positive Psychological Factors
+- Well-being
+- Human Flourishing
 
 
 education:
