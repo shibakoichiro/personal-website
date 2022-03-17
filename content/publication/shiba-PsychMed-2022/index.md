@@ -1,0 +1,11 @@
++++
+title = "Associations of Online Religious Participation During the COVID-19 Lockdown with Subsequent Health and Well-being: A Longitudinal Study of the U.K. Population. "
+date = 2022-02-22
+authors = ["Koichiro Shiba","Richard G. Cowden", "Natasha Gonzalez","Yusuf Ransome","Atsushi Nakagomi","Ying Chen", "Matthew T. Lee","Tyler J. VanderWeele"]
+publication_types = ["2"]
+abstract = "In-person religious service attendance has been linked to favorable health and well-being outcomes. However, little research has examined whether online religious participation improves these outcomes, especially when in-person attendance is suspended. Using longitudinal data of 8951 UK adults, this study prospectively examined the association between frequency of online religious participation during the stringent lockdown in the UK (23 March –13 May 2020) and 21 indicators of psychological well-being, social well-being, pro-social/altruistic behaviors, psychological distress, and health behaviors. All analyses adjusted for baseline socio-demographic characteristics, pre-pandemic in-person religious service attendance, and prior values of the outcome variables whenever data were available. Bonferroni correction was used to correct for multiple testing. Individuals with online religious participation of ≥1/week (v. those with no participation at all) during the lockdown had a lower prevalence of thoughts of self-harm in week 20 (odds ratio 0.24; 95% CI 0.09–0.62). Online religious participation of <1/week (v. no participation) was associated with higher life satisfaction (standardized β = 0.25; 0.11–0.39) and happiness (standardized β = 0.25; 0.08–0.42). However, there was little evidence for the associations between online religious participation and all other outcomes (e.g. depressive symptoms and anxiety). There was evidence that online religious participation during the lockdown was associated with some subsequent health and well-being outcomes. Future studies should examine mechanisms underlying the inconsistent results for online v. in-person religious service attendance and also use data from non-pandemic situations.
+"
+featured = false
+publication = "*Psychologoical Medicine*"
+doi ="https://doi.org/10.1017/S0033291722000551"
++++
