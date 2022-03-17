@@ -1,0 +1,10 @@
++++
+title = "Global Trends of Mean and Inequality in Multidimensional Well-being From 2009 to 2019: Analysis of 1.2 Million Individuals From 162 Countries"
+date = 2022-02-14
+authors = ["Koichiro Shiba","Richard G. Cowden", "Natasha Gonzalez", "Matthew T. Lee", "Tim Lomas","Alden Yuanhong Lai","Tyler J. VanderWeele"]
+publication_types = ["2"]
+abstract = "Human flourishing is a multidimensional concept characterized by a state of complete wellbeing. However, much of the prior research on wellbeing has principally focused on population averages assessed using a single item of wellbeing. This study examined trends in population averages and inequalities for a multidimensional index of wellbeing and compared emergent patterns with those found for Cantril's ladder, a measure of life satisfaction commonly used as a unidimensional index of wellbeing. Data were from the Gallup World Poll from the years 2009 to 2019, a repeated cross-sectional survey of nationally representative samples comprising ~1.2 million individuals from 162 countries. We assessed five domains of flourishing: (1) happiness, (2) health, (3) purpose, (4) character, and (5) social relationships. We used the Gini Index to estimate inequalities in wellbeing within populations. We examined and compared country ranking, global and region-specific trajectories of mean and inequality, and relationships with age for flourishing and Cantril's ladder. Although all trends were highly correlated across the two metrics of wellbeing, we identified distinct patterns in flourishing concerning geography, time, and age relationships that were not observed for Cantril's ladder. Temporal trends and age relationships were different across domains of flourishing. Evidence of changing inequalities in wellbeing was also found, even when population averages were high or stable over time. Comprehensive measures of wellbeing are needed to capture the complex and changing patterns of wellbeing both within and across populations."
+featured = false
+publication = "*Frontiers in Public Health*"
+doi ="https://doi.org/10.3389/fpubh.2022.824960"
++++
