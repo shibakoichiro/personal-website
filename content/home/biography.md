@@ -16,4 +16,4 @@ Specifically, I have worked on three themes of research. First, I study the effe
 
 Methodologic tools for causal inference I often use include: methods for the analysis of a time-varying treatment (e.g., marginal structural model, doubly-robust targeted maximum likelihood estimation combined with Super Learner ensemble of algorithms including ML-based ones), causal mediation analysis, assessment of effect heterogeneity using either a traditional interaction analysis or a novel ML-based technique, and longitudinal outcome-wide analytic framework.
 
-For the list of publication, please see [my google scholar page](https://scholar.google.co.jp/citations?user=rZ5DSdoAAAAJ&hl=en).
+For the full list of publications, please visit [my google scholar page](https://scholar.google.co.jp/citations?user=rZ5DSdoAAAAJ&hl=en).
