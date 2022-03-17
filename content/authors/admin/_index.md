@@ -26,8 +26,9 @@ interests:
 - Causal Inference
 - Machine Learning
 - Effect Heterogeneity
+- Health Disparity
+- Neighborhood/Built-Environment
 - Traumatic Events
-- Neighborhoods
 - Aging
 - Social Relationships
 - Social Engagement
