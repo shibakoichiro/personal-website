@@ -1,0 +1,10 @@
++++
+title = "Ikigai and subsequent health and wellbeing among Japanese older adults: Longitudinal outcome-wide analysis"
+date = 2022-02-03
+authors = ["Koichiro Shiba","Sakurako S. Okuzono", "Eric S. Kim", "Kokoro Shirai", "Naoki Kondo","Takeo Fujiwara","Katsunori Kondo","Tim Lomas","Claudia Trudel-Fitzgerald","Ichiro Kawachi", "Tyler J. VanderWeele"]
+publication_types = ["2"]
+abstract = "Having a purpose in life has been linked to improved health and wellbeing; however, it remains unknown whether having “Ikigai”—a related but broader concept in Japan—is also beneficial for various physical and psychosocial outcomes. Using data from a nationwide longitudinal study of Japanese older adults aged ≥65 years, we examined the associations between having Ikigai in 2013 and a wide range of subsequent outcomes assessed in 2016 across two databases (n = 6,441 and n = 8,041), including dimensions of physical health, health behavior, psychological distress, social wellbeing, subjective wellbeing, and pro-social/altruistic behaviors. We adjusted for sociodemographic characteristics and the outcome values (whenever data were available) in the prior wave (2010). Having Ikigai (vs. not having Ikigai) was associated with a 31% lower risk of developing functional disability [95% confidence interval (CI) for risk ratio: 0.58, 0.82] and 36% lower risk of developing dementia [95% CI for risk ratio: 0.48, 0.86] during the three-year follow-up. Having Ikigai was associated with decreased depressive symptoms and hopelessness as well as higher happiness, life satisfaction, instrumental activity of daily living, and certain social outcomes (e.g., more frequent participation in hobby clubs). Some of these associations were stronger for men than women, and among individuals with high socioeconomic status (p-values for effect measure modification < 001). Having Ikigai may promote health and wellbeing outcomes among Japanese older adults, but particularly men and individuals with high socioeconomic status."
+featured = false
+publication = "*The Lancet Regional Health - Western Pacific*"
+doi ="https://doi.org/10.1016/j.lanwpc.2022.100391"
++++
