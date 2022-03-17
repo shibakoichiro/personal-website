@@ -28,7 +28,7 @@ interests:
 - Effect Heterogeneity
 - Health Disparity
 - Neighborhood/Built-Environment
-- Traumatic Events
+- Traumatic Events/Disasters
 - Aging
 - Social Relationships
 - Social Engagement
