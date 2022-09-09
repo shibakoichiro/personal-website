@@ -27,14 +27,14 @@ interests:
 - Machine Learning
 - Effect Heterogeneity
 - Health Disparity
-- Neighborhood/Built-Environment
 - Traumatic Events/Disasters
-- Aging
-- Social Relationships
-- Social Engagement
 - Positive Psychological Factors
 - Well-being
 - Human Flourishing
+- Social Relationships
+- Social Engagement
+- Neighborhood/Built-Environment
+
 
 
 education:
