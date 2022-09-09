@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Research Fellow of Epidemiology
+role: Assistant Professor of Epidemiology
 
 # Organizations/Affiliations
 organizations:
-- name: Harvard T.H. Chan School of Public Health
-  url: "https://www.hsph.harvard.edu/"
+- name: Boston University School of Public Health
+  url: "https://www.bu.edu/sph/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social determinants of health and well-being and causal inference.
