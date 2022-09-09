@@ -15,7 +15,7 @@ role: Assistant Professor of Epidemiology
 # Organizations/Affiliations
 organizations:
 - name: Boston University School of Public Health
-  url: "https://www.bu.edu/sph/"
+  url: "https://www.bu.edu/sph/profile/koichiro-shiba/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include social determinants of health and well-being and causal inference.
