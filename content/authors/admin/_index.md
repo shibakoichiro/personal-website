@@ -30,8 +30,7 @@ interests:
 - Traumatic Events/Disasters
 - Positive Psychological Factors
 - Well-being
-- Human Flourishing
-- Social Relationships
+- Healthy Aging
 - Social Engagement
 - Neighborhood/Built-Environment
 
