@@ -22,11 +22,11 @@ bio: My research interests include social determinants of health and well-being 
 
 interests:
 - Social Epidemiology
+- Health Disparities
 - Epidemiologic Methods
 - Causal Inference
 - Machine Learning
 - Effect Heterogeneity
-- Health Disparity
 - Traumatic Events/Disasters
 - Positive Psychological Factors
 - Well-being
